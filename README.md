@@ -44,7 +44,7 @@ I'm a passionate **Data Scientist** who loves turning data into actionable insig
 ### 📫 Let's connect:
 ### Connect with me:
 <p align="left">
-<a href="https://github.com/Shivanks95" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40"/></a>
+<a href="https://github.com/Shivanks95" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/shivank-singh-092987113" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/></a>
 <a href="mailto:Ershivank1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="40" width="40"/></a>
 </p>

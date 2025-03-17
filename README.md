@@ -1,4 +1,4 @@
-## Hi there, I'm Shivank Singh 👋
+## Hi there, I'm Shivank Singh 👋![Profile Views](https://komarev.com/ghpvc/?username=Shivanks95&color=blue&style=flat)
 
 I'm a passionate **Data Scientist** who loves turning data into actionable insights and compelling visualizations. I specialize in data analysis, visualization, and predictive modeling using Python, Microsoft Power BI, and other advanced analytics tools.
 

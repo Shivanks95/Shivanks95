@@ -17,6 +17,8 @@ I'm a passionate **Data Scientist** who loves turning data into actionable insig
 - **Cloud Platforms:** Amazon Web Services (AWS)
 - **ETL & Automation:** Data extraction, Web Scraping, Automation scripts
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shivanks95&show_icons=true&locale=en&layout=compact)
+
 ### 🚀 Professional Experience:
 - **Data Scientist at Davis Index** *(June 2023 – Present)*
   - Built interactive dashboards to support real-time analytics.
@@ -40,8 +42,12 @@ I'm a passionate **Data Scientist** who loves turning data into actionable insig
 - **Google Apps Store Analysis**: Explored app trends and user behavior using exploratory data analysis.
 
 ### 📫 Let's connect:
-- **Email**: [Ershivank1@gmail.com](mailto:Ershivank1@gmail.com)
-- **LinkedIn**: [Shivank Singh](https://www.linkedin.com/in/shivank-singh-092987113)
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/shivank-singh-092987113" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/></a>
+<a href="mailto:Ershivank1@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="30"></a>
+</p>
+
 
 ---
 
